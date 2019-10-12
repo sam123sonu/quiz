@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">quiz</string>
+    <string name="todo">TODO</string>
+    <string name="qsn1">india got independence in 1947</string>
+    <string name="falsetext">false</string>
+    <string name="truetext">true</string>
+    <string name="true_answer">RIGHT ANSWER</string>
+    <string name="false_answer">WRONG ANSWER</string>
+    <string name="qsn2">Lightning never sttrikes at same place twice</string>
+    <string name="qsn3">if you  cut the earthworm in two halves ,it can regrow their body </string>
+    <string name="qsn4">human can distinuish between over a trillion different smells</string>
+    <string name="qsn5">adult have fewer bone than babies</string>
+    <string name="qsn6">napoleon bonaparte was extremely short</string>
+    <string name="qsn7">fingernails and hair grows after u die</string>
+    <string name="qsn8">buzz aldrin was the first man to urinate on moon</string>
+    <string name="qsn9">drinking kills brain cells</string>
+    <string name="qsn10">goldfish have a memory of 3sec</string>
+    <string name="next">next</string>
+</resources>
