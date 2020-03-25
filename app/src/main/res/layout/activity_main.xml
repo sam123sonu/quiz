@@ -21,9 +21,14 @@
         android:id="@+id/text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:backgroundTint="@color/colorAccent"
         android:padding="8dp"
         android:text="@string/qsn1"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textColor="@color/colorPrimary"
+        android:textColorHighlight="@color/colorPrimaryDark"
+        android:textColorLink="@color/colorPrimaryDark"
         android:visibility="visible" />
 
     <LinearLayout
@@ -34,17 +39,22 @@
             android:id="@+id/true_Button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:background="@color/colorAccent"
+            android:backgroundTint="@color/colorAccent"
             android:text="@string/truetext" />
 
         <Button
             android:id="@+id/false_Button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:background="@color/colorAccent"
+            android:backgroundTint="@color/colorAccent"
             android:text="@string/falsetext" />
     </LinearLayout>
+
     <ImageButton
         android:id="@+id/nextbutton"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:src="@android:drawable/ic_media_next"/>
+        android:src="@android:drawable/ic_media_next" />
 </LinearLayout>
